@@ -130,21 +130,7 @@ body{
   font-size:13px;
 }
 
-.left{
-  background:#2f3241;
-}
 
-.right{
-  background:#4a6cf7;
-  margin-left:auto;
-}
-
-.time-text{
-  text-align:center;
-  font-size:11px;
-  color:#888;
-  margin:10px 0;
-}
 
 .input{
   display:flex;

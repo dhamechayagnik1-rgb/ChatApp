@@ -67,5 +67,25 @@
 
 </div>
 
+<script src="http://localhost:3000/socket.io/socket.io.js"></script>
+
+<script>
+    const soclet = io.connect('http://localhost')
+
+
+    const username = prompt('Eneter Your User Name');
+
+    socket.emit('join', username);
+
+
+
+
+
+
+
+</script>
+
+    
+
 </body>
 </html>
